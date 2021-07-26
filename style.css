@@ -92,9 +92,6 @@ a:hover {
 .font-color{
     color: white;
 }
-.font-size{
-    font-size: 10px;
-}
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
